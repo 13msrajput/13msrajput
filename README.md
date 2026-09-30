@@ -7,16 +7,16 @@
 <p>I design, build, and ship AI/ML systems — from data pipelines to production-grade GenAI applications — with a focus on reliability, reproducibility, and measurable impact.</p>
 
 <p>
-  <a href="https://linkedin.com/in/mohitsingh1307">
+  <a href="https://linkedin.com/in/13msrajput">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mohit-1307">
+  <a href="https://github.com/13msrajput">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/mohitsinghrajput1307">
+  <a href="https://www.kaggle.com/13msrajput">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">
+  <a href="https://leetcode.com/u/13msrajput">
     <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="mailto:mohitsinghrajput1307@gmail.com">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mohit-1307&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=13msrajput&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -109,10 +109,10 @@ If you are building impactful AI systems or need an engineer who can take a proj
 
 **Let's connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohit-1307)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
-[![LeetCode](https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/MOHIT_SINGH_RAJPUT/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/13msrajput)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/13msrajput)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/13msrajput)
+[![LeetCode](https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/13msrajput)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghrajput1307@gmail.com)
 
 </div>
